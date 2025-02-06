@@ -1,0 +1,6 @@
+/*
+	Promotion
+	Castling
+	Check Mate
+	WHEN CHECK THEN MAKE THE CONDITION FOR THE KILL OF CHECKER
+*/
